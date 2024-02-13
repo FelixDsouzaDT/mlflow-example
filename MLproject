@@ -1,6 +1,6 @@
 name: tutorial
 
-conda_env: conda.yaml
+venv: conda.yaml
 
 entry_points:
   main:
